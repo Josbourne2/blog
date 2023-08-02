@@ -1,7 +1,14 @@
 {
     "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
-    }
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ParentOptions:FirstName": "T.F.",
+    "ParentOptions:LastName": "Menhart",
+    "ParentOptions:ChildOptions__FirstName": "Jos",
+    "ParentOptions:ChildOptions__LastName": "Menhart",
+    "ParentOptions:ChildOptions__Age": 40,
+    "ParentOptions:ChildOptions__FavouriteFoods:[0]": "French fries",
+    "ParentOptions:ChildOptions__FavouriteFoods:[1]": "Sushi"
+  }
 }
